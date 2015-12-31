@@ -1,0 +1,17 @@
+{
+	"000": {
+		"shortDesc": "chair",
+		"longDesc": "a simple chair. Nothing much of it, really. Just something to sit on.",
+		"canSit": true,
+		"isBoat": false,
+		"canRead": false,
+		"canWrite": false,
+		"isContainer": false,
+		"maxCarry": 1,
+		"canEquip": true,
+		"equipSlot": weapon,
+		"cursed": false,
+		"baseDmg": 5,
+		"breakable": 8
+	}
+}

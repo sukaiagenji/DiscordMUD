@@ -1,0 +1,67 @@
+{
+	"000": {
+		"shortDesc": "Limbo?",
+		"longDesc": "Looking around, you see nothing. It's... kinda odd, actually... Not really standing, or sitting, or... maybe you're floating?",
+		"area": "limbo"
+	},
+	"001": {
+		"shortDesc": "The Great Hall",
+		"longDesc": "The Great Hall is a masterpiece of architecture. Beautiful columns line up near the walls like soldiers standing guard. The ceiling is reminiscent of the Sistine Chapel. Great chairs are littered everywhere, with a sofa or 4 thrown in. The walls are obviously made of marble, with fake doors attached.",
+		"exits": {
+			"n": { "linksTo": "002" }
+		},
+		"area": "castlenewbie",
+		"roomHas": {
+			"000": {
+				"itemIs": "chair",
+				"itemDesc": "a simple chair. Nothing much of it, really. Just something to sit on.",
+				"itemNumber": "000",
+				"itemFile": "0"
+			}
+		}
+	},
+	"002": {
+		"shortDesc": "a courtyard",
+		"longDesc": "The courtyard of the Hall is immense, small benches dot the area here and there. People pass through here on their way either to the throne room, or into Generic City. There's not much to actually do here...",
+		"exits": {
+			"s": { "linksTo": "001" },
+			"e": {
+				"linksTo": "003",
+				"hasDoor": "closed"
+			},
+			"w": { "linksTo": "004" }
+		},
+		"area": "castlenewbie"
+	},
+	"003": {
+		"shortDesc": "The Dining Hall",
+		"longDesc": "Dining Hall desc",
+		"exits": {
+			"w": {
+				"linksTo": "002",
+				"hasDoor": "closed"
+			},
+			"s": {
+				"linksTo": "005", 
+				"hidden": true
+			}
+		},
+		"area": "castlenewbie"
+	},
+	"004": {
+		"shortDesc": "The Barracks",
+		"longDesc": "Barracks desc",
+		"exits": {
+			"e": { "linksTo": "002" }
+		},
+		"area": "castlenewbie"
+	},
+	"005": {
+		"shortDesc": "the Kitchen",
+		"longDesc": "kitchen desc",
+		"exits": {
+			"n": { "linksTo": "003" }
+		},
+		"area": "castlenewbie"
+	}
+}

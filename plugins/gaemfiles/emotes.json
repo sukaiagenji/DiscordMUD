@@ -1,0 +1,54 @@
+{
+	"barf": {
+		"0": " You barf on the floor",
+		"1": " barfs on the floor",
+		"2": " You barf on ",
+		"3": " barfs on ",
+		"4": "'s shoes",
+		"5": "your shoes!"
+	},
+	"dance": {
+		"0": " You dance around.",
+		"1": " dances around",
+		"2": " You dance around with ",
+		"3": " dances with ",
+		"4": "",
+		"5": "you"
+	},
+	"kick": {
+		"0": " You kick at the dirt",
+		"1": " kicks at the dirt",
+		"2": " You kick ",
+		"3": " kicks ",
+		"4": " in the shin",
+		"5": "you in the shin"
+	},
+	"dropkick": {
+		"0": " You dropkick from heights unknown",
+		"1": " dropkicks from heights unknown",
+		"2": " You dropkick ",
+		"3": " dropkicks ",
+		"4": "",
+		"5": "you"
+	},
+	"scream": {
+		"0": " You scream as loud as possible",
+		"1": " screams as loud as possible",
+		"2": " You scream at ",
+		"3": " screams at ",
+		"4": "",
+		"5": "you"
+	},
+	"burp": {
+		"0": " You burp loudly",
+		"1": " burps loudly",
+		"2": " You burp loudly next to ",
+		"3": " burps loudly next to ",
+		"4": "",
+		"5": "you"
+	},
+	"fart": {
+		"0": "WHERE ARE YOUR MANNERS??? D:",
+		"1": " let's one rip!!!"
+	}
+}
