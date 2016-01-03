@@ -1,0 +1,93 @@
+{
+	"ages": {
+		"0": "young",
+		"1": "seasoned",
+		"2": "middleaged",
+		"3": "old",
+		"4": "ancient"
+	},
+	"heights": {
+		"0": "short",
+		"1": "average",
+		"2": "tall"
+	},
+	"weights": {
+		"0": "scrawny",
+		"1": "tiny",
+		"2": "average",
+		"3": "chubby",
+		"4": "overweight"
+	},
+	"genders": {
+		"0": "male",
+		"1": "female"
+	},
+	"races": {
+		"0": "human",
+		"1": "newman",
+		"2": "deuman",
+		"3": "cast"
+	},
+	"classes": {
+		"0": "hunter",
+		"1": "fighter",
+		"2": "ranger",
+		"3": "gunner",
+		"4": "force",
+		"5": "techer",
+		"6": "braver",
+		"7": "bouncer"
+	},
+	"hairLengths": {
+		"0": "long",
+		"1": "medium",
+		"2": "short",
+		"3": "bald"
+	},
+	"hairTypes": {
+		"0": "curly",
+		"1": "straight",
+		"2": "wavey",
+		"3": "messy",
+		"4": "flowing",
+		"5": "spikey",
+		"6": "unkempt"
+	},
+	"hairColors": {
+		"0": "black",
+		"1": "brown",
+		"2": "blonde",
+		"3": "red",
+		"4": "blue",
+		"5": "green",
+		"6": "purple",
+		"7": "orange",
+		"8": "white",
+		"9": "pink"
+	},
+	"eyesTypes": {
+		"0": "piercing",
+		"1": "relaxed",
+		"2": "sharp",
+		"3": "focused",
+		"4": "conflicted",
+		"5": "sad",
+		"6": "happy",
+		"7": "twinkling",
+		"8": "worried",
+		"9": "empty"
+	},
+	"eyesColors": {
+		"0": "black",
+		"1": "brown",
+		"2": "blue",
+		"3": "purple",
+		"4": "red",
+		"5": "green",
+		"6": "smokey",
+		"7": "sunny",
+		"8": "pink",
+		"9": "rainbow",
+		"10": "white"
+	}
+}

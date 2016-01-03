@@ -1,0 +1,26 @@
+{
+	"000": {
+		"shortDesc": "royal guard",
+		"longDesc": "a royal guard. High level, very powerful. You'd be desparate to attack him.",
+		"inventory": "000",
+		"equipped": { "weapon": "000" },
+		"level": 30,
+		"drops": {
+			"gold": 20
+		},
+		"align": 100,
+		"actionSet": {
+			"0": "go n",
+			"1": "say What a day...",
+			"2": "close w",
+			"3": "say There's nothing to guard...",
+			"4": "go e",
+			"5": "go w",
+			"6": "say Never anything good in the barracks...",
+			"7": "go s"
+		},
+		"position": "standing",
+		"currentAt": "001",
+		"area": "castlenewbie"
+	}
+}
